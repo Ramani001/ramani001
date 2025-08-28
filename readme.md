@@ -1,18 +1,4 @@
-<!--
-███████╗ █████╗ ██╗     ███████╗███████╗ ██████╗ ██████╗  ██████╗███████╗
-██╔════╝██╔══██╗██║     ██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝
-███████╗███████║██║     █████╗  ███████╗██║   ██║██████╔╝██║     █████╗  
-╚════██║██╔══██║██║     ██╔══╝  ╚════██║██║   ██║██╔══██╗██║     ██╔══╝  
-███████║██║  ██║███████╗███████╗███████║╚██████╔╝██║  ██║╚██████╗███████╗
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝
-                  A D M I N I S T R A T O R   &   I N T E G R A T I O N   E X P E R T
--->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4AA,100:667eea&height=300&section=header&text=RAMANI%20MAHIDARA&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20SALESFORCE%20ADMINISTRATOR%20◉%20INTEGRATION%20SPECIALIST%20◉%20ANALYTICS%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
-
-</div>
 <!--
 ███████╗ █████╗ ██╗     ███████╗███████╗ ██████╗ ██████╗  ██████╗███████╗
 ██╔════╝██╔══██╗██║     ██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝
